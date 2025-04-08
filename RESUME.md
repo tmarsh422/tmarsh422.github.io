@@ -5,57 +5,64 @@ Data Analyst
 | [https://www.linkedin.com/in/thomas-marshall-254a56324/](https://www.linkedin.com/in/thomas-marshall-254a56324/)
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+Specializing in statistical analysis, coding, and genomics. Driven by the desire to utilize these skills in practical contexts to address real-world issues. My aim is to apply my education of biological data science, contributing to the advancement of biological research with tangible impact.
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Graduate Worker, Temple University Disability Resources and Services
+*August 2024 - Present*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+•	Worked in a team to effectively plan and prep resources and materials for students
+•	Aided students in scheduling and obtaining their resources and services
+•	Proficiently used company applications and tools
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Instructor, Temple University STEM Caring People Alliance
+*June 2023 - August 2023*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+•	Developed and implemented lesson plans and schedules with a team of instructors that aligned with state and national standards.
+•	Taught and clearly communicated rules, guidelines, and objectives.
+•	Used data to evaluate student progress and inform instructional decisions.
+•	Observed and adopted new techniques from skilled instructors and lecturers.
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Master of Science in Bioinformatics and Biological Data Science 
+*Temple University*  
+*2024 - 2026*
+
+### Bachelor of Science in Biology
+*Temple University*  
+*2020 - 2024*
 
 ## Skills
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
-
-## Certifications
-
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+•	Ability to Multitask
+•	Ability to Work in a Team
+•	Adaptability
+•	Biology
+•	Biostatistics
+•	Content Creation
+•	Hardworking
+•	Leadership Skills
+•	Medical Terminology
+•	Microsoft Office
+•	Motivated
+•	Online Marketing
+•	Organization
+•	Programming Proficiency
+•	Python Coding Experience
+•	R Coding Experience
+•	Scientific Research
+•	Skilled in After Effects, Photoshop, and Premiere Pro
+•	Teaching
+•	Time Management
+•	Troubleshooting
 
 ## Projects
 
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
+### Siphamia Tubifer Comparative transcriptomics
+Comparative transcriptomics project investigating symbiotic gene expression in Siphamia tubifer, a bioluminescent reef fish.
 
 ## Languages
 
 - English: Fluent
-- Swahili: Native
-
-## Interests
-
-- Hiking
-- Technology
-- Photography
