@@ -13,15 +13,20 @@ Specializing in statistical analysis, coding, and genomics. Driven by the desire
 *August 2024 - Present*
 
 •	Worked in a team to effectively plan and prep resources and materials for students
+
 •	Aided students in scheduling and obtaining their resources and services
+
 •	Proficiently used company applications and tools
 
 ### Instructor, Temple University STEM Caring People Alliance
 *June 2023 - August 2023*
 
 •	Developed and implemented lesson plans and schedules with a team of instructors that aligned with state and national standards.
+
 •	Taught and clearly communicated rules, guidelines, and objectives.
+
 •	Used data to evaluate student progress and inform instructional decisions.
+
 •	Observed and adopted new techniques from skilled instructors and lecturers.
 
 ## Education
@@ -37,25 +42,45 @@ Specializing in statistical analysis, coding, and genomics. Driven by the desire
 ## Skills
 
 •	Ability to Multitask
+
 •	Ability to Work in a Team
+
 •	Adaptability
+
 •	Biology
+
 •	Biostatistics
+
 •	Content Creation
+
 •	Hardworking
+
 •	Leadership Skills
+
 •	Medical Terminology
+
 •	Microsoft Office
+
 •	Motivated
+
 •	Online Marketing
+
 •	Organization
+
 •	Programming Proficiency
+
 •	Python Coding Experience
+
 •	R Coding Experience
+
 •	Scientific Research
+
 •	Skilled in After Effects, Photoshop, and Premiere Pro
+
 •	Teaching
+
 •	Time Management
+
 •	Troubleshooting
 
 ## Projects
