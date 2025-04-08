@@ -13,7 +13,9 @@ Specializing in statistical analysis, coding, and genomics. Driven by the desire
 *August 2024 - Present*
 
 •	Worked in a team to effectively plan and prep resources and materials for students
+
 •	Aided students in scheduling and obtaining their resources and services
+
 •	Proficiently used company applications and tools
 
 ### Instructor, Temple University STEM Caring People Alliance
