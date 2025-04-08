@@ -1,7 +1,7 @@
 # Thomas Marshall
 Data Analyst
-| [example@gmail.com](tmarsh@gmail.com)
-| [+254 777 777 777](tel:+12156209081)
+| [tmarsh522@gmail.com](tmarsh@gmail.com)
+| [+1 215 620 9081](tel:+12156209081)
 | [example.com](https://example.com)
 | [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
 
